@@ -1,0 +1,11 @@
+CPU Speed Test Results
+Device: Raspberry Pi
+Execution time: 3.8674 seconds
+CPU temperature: 44.0 C
+CPU usage: 100% (Core 3)
+
+Number of iterations: 5,000,000
+Python script: cpu_test.py
+Conclusion:
+The CPU benchmark completed successfully.
+One CPU core reached 100% utilisation during the test
